@@ -12,9 +12,7 @@ An application that can be used to write, save, and delete notes. This applicati
 <ul>
 <li><a href="#installation">Installation</a></li>
 <li><a href="#usage">Usage</a></li>
-<li><a href="#tests">Tests</a></li>
 <li><a href="#contributing">Contributing</a></li>
-<li><a href="#FAQ">FAQ</a></li>
 <li><a href="#license">License</a></li>
 </ul>
 
@@ -40,13 +38,8 @@ An application that can be used to write, save, and delete notes. This applicati
 </ul>
 <h1>Usage</h1>
 
-* Provide instructions and examples for use. Include screenshots as needed.
-<h1>Tests</h1>
+![Gif](http://g.recordit.co/orcg5t2BKk.gif)
 
-<ul>
-<li>For this project use this command:</li>
-</ul>
-This is a test command
 <h1>Contributing</h1>
 
 <p><strong>Instructions</strong></p>
@@ -59,16 +52,6 @@ This is a test command
 </li>
 <li>
 <p>Create a new pull request</p>
-</li>
-</ul>
-
-<h1>FAQ</h1>
-
-<ul>
-<li><strong>How do I do <em>specifically</em> so and so?</strong>
-<ul>
-<li>No problem! Just do this...</li>
-</ul>
 </li>
 </ul>
 
