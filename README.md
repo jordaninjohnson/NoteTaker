@@ -20,23 +20,24 @@ An application that can be used to write, save, and delete notes. This applicati
 
 <h1>Installation</h1>
 
+<h2>Clone or Download</h2>
 <ul>
-<li>All the code required to get started</li>
-<li>images of what it should look like</li>
-</ul>
-<h2>Clone</h2>
-<ul>
-<li>Clone this repo to your local machine</li>
+<li>Clone or download this repo to your local machine</li>
 </ul>
 <h2>Setup</h2>
 <ul>
-<li>Update and install packages</li>
+<li>Open your terminal and find the project folder.</li>
 </ul>
 
 <ul>
-<li>For this project use this command:</li>
+<li>Use this command to download packages:<code>npm i</code>
+</li>
 </ul>
-npm i
+
+<h2>Run it!<h2>
+<ul>
+<li>Run the application by entering <code>node server.js</code></li>
+</ul>
 <h1>Usage</h1>
 
 * Provide instructions and examples for use. Include screenshots as needed.
